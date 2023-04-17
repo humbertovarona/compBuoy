@@ -9,8 +9,6 @@ February, 28th 2023
 # DOI
 [![DOI](https://zenodo.org/badge/423248921.svg)](https://doi.org/10.5281/zenodo.7692281)
 
-
-
 # Description
 
 Matlab package for the validation of vertical profiles of ocean parameters through the Mann-Whitney, t-test and Fisher statistical tests; compares data from moored buoys such as: PIRATA/RAMA/TAO/TRITON with analysis and reanalysis datasets.
