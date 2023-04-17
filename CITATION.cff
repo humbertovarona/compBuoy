@@ -1,0 +1,62 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Software for data analysis of Brazilian rivers (vRivers)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Varona
+    given-names: Humberto L.
+    email: humberto.varona@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-7405-4827'
+  - given-names: Noriega
+    family-names: Carlos
+    email: carlos.delnor@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0002-3590-6377'
+  - given-names: Julia
+    family-names: Araujo
+    email: juliamdearaujo@gmail.com
+    affiliation: >-
+      Brazilian Research network on Global Climate Change (Rede CLIMA),
+      São José dos Campos, SP, Brazil
+    orcid: 'https://orcid.org/0000-0001-8353-6254'
+  - given-names: Lira
+    family-names: Simone M. A.
+    email: simonealira@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0003-1751-3526'
+  - given-names: Moacyr
+    family-names: Araujo
+    email: moa.ufpe@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-8462-6446'
+repository-code: 'https://doi.org/10.5281/zenodo.7692281'
+abstract: >-
+  Matlab package for the validation of vertical profiles of ocean parameters
+  through the Mann-Whitney, t-test and Fisher statistical tests; compares data
+  from moored buoys such as: PIRATA/RAMA/TAO/TRITON with analysis and reanalysis
+  datasets.
+keywords:
+  - Vertical profile
+  - Ocean parameters
+  - Analysis and reanalysis datasets
+  - Mann-Whitney test
+  - two samples t-test
+  - two samples Fisher test
+license: MIT
+version: '1.5'
+date-released: '2023-02-28'
