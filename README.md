@@ -7,7 +7,8 @@ Version 1.5
 February, 28th 2023
 
 # DOI
-https://doi.org/10.5281/zenodo.7692281
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7692281.svg)](https://doi.org/10.5281/zenodo.7692281)
 
 # Description
 
